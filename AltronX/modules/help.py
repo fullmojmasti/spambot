@@ -29,8 +29,8 @@ async def help(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [    
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/aboutprincexd"),
-            Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/GUJU_CHATTING")
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ArchBots"),
+            Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/+Rz-M66La1yUwMWZl")
            ],
            ],
            )
@@ -54,7 +54,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @YOUR_GODFATHER_XD**
+**© @MAS00M_BOY**
 """
 
                  
@@ -86,7 +86,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @YOUR_GODFATHER_XD**
+**© @MAS00M_BOY**
 """
 
 spam_msg = f"""
@@ -103,7 +103,7 @@ spam_msg = f"""
   1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
 
-** © @YOUR_GODFATHER_XD**
+** © @MAS00M_BOY**
 """                     
            
            
@@ -130,8 +130,8 @@ async def helpback(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/aboutprincexd"),
-            Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/GUJU_CHATTING")
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ArchBots"),
+            Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/+Rz-M66La1yUwMWZl")
            ],
            ],
         )           
@@ -193,4 +193,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
    else:
-        await event.answer("Make Your Own Tosu Bots !! @YOUR_GODFATHER_XD", cache_time=0, alert=True)
+        await event.answer("Make Your Own Tosu Bots !! @MAS00M_BOY", cache_time=0, alert=True)
