@@ -8,11 +8,11 @@ PythonButton = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
         ],
         [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/aboutprincexd"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/GUJU_CHATTING")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/+Rz-M66La1yUwMWZl"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ArchBots")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/mrtosumemon/ThetosuBotSpam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/fullmojmasti/spambot")
         ]
         ]
 
@@ -34,7 +34,7 @@ async def start(event):
         BotName = AltBot.first_name
         BotId = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{BotName}](tg://user?id={BotId})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [MASOOM BOY](https://t.me/MAS00M_BOY)**\n\n"
         TEXT += f"» **ʙᴏᴛ ꜱᴘᴀᴍ ᴠᴇʀsɪᴏɴ :** `M3.2`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{telethon.__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
