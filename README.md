@@ -1,11 +1,11 @@
-<h1 align="center"><b>😈 𝙏𝙝𝙚𝙂𝙤𝙙𝙛𝙖𝙩𝙝𝙚𝙧𝙎𝙥𝙖𝙢 🔥💫 😈</b></h1>
+<h1 align="center"><b>😈𝙏𝙃𝙀 𝘼𝙍𝙊𝙃𝙄 𝙎𝙋𝘼𝙈 🔥💫 😈</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/YOUR_GODFATHER_XD"><img src="https://te.legra.ph/file/dc6415d3003c20b76793b.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/MAS00M_BOY"><img src="https://telegra.ph/file/1e9337702f709fe53c9df.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP GODFATHERX SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP AROHI SPAM BOT, That is the greatest pleasure we have !
 
 <br>
 
@@ -18,7 +18,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/ThetosuBotSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/fullmojmasti/spambot)
   
 </details>
 
@@ -40,4 +40,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/GUJU_CHATTING"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/+iTGIQ7mMesAwNmM1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
